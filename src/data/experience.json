@@ -1,0 +1,100 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://train.fitness/",
+      "company": "TrainFitness",
+      "title": "TrainFitness",
+      "dateFrom": "2019",
+      "dateTo": "",
+      "info": [
+        "TrainFitness is an educational organisation based on the fitness culture. They deliver high-quality courses to train future personal trainers. My role consisted of creating a landing page for the business to showcase its services and courses to the clientele. WordPress has been used to develop their website and a blog operated by the instructors. In this role, I have also applied my SEO skills to improve the website's ranking."
+      ],
+      "stack": ["WordPress", "PHP", "SEO", "JavaScript"],
+      "logowidth": 70,
+      "colourPrimary": "linear-gradient(to bottom, #3979b1, #ccb87b)",
+      "colourSecondary": "linear-gradient(to bottom, #3979b1, #ccb87b)"
+    },
+    {
+      "id": 1,
+      "link": "https://www.aquaesse.com/password?password=Simone2020",
+      "company": "AquaEsse",
+      "title": "AquaEsse",
+      "dateFrom": "2021",
+      "dateTo": "",
+      "info": [
+        "AquaEsse is the name of a luxury water brand founded in Germany. A Shopify website has been developed for the client in order to sell their products via e-commerce. Liquid language was used and learned to customise the layout of the template picked. Further works have focused on improving the SEO of the website and its user engagement via Instagram too."
+      ],
+      "stack": [
+        "Shopify",
+        "Liquid",
+        "E-commerce",
+        "SEO",
+        "Social Media Management"
+      ],
+      "logowidth": 50,
+      "colourPrimary": "linear-gradient(to bottom, #ff8bec, #ffb780)",
+      "colourSecondary": "linear-gradient(to bottom, #ff8bec, #ffb780)"
+    },
+    {
+      "id": 2,
+      "link": "http://simone.byethost9.com/",
+      "company": "WeSushi",
+      "title": "WeSushi",
+      "dateFrom": "2021",
+      "dateTo": "",
+      "info": [
+        "WeSushi is a website for a Japanese restaurant developed with WordPress. This website has a user-friendly template which displays the restaurant’s information and menus. Some plugins have been implemented in order to allow customers to reserve a table, pre-order food or order a takeaway. Elementor has been largely used to design the pages and layouts of the website."
+      ],
+      "stack": ["WordPress", "PHP", "Elementor", "Plugins"],
+      "logowidth": 70,
+      "colourPrimary": "linear-gradient(to bottom, #b13944, #ffa38e)",
+      "colourSecondary": "linear-gradient(to bottom, #b13944, #ffa38e)"
+    },
+    {
+      "id": 3,
+      "link": "http://legalclinic.byethost18.com/",
+      "company": "Legal Clinic",
+      "title": "Legal Clinic",
+      "dateFrom": "2022",
+      "dateTo": "",
+      "info": [
+        "The Family Law Hub has been looking for a system that allows them to manage users’ cases which are assigned to a specific Lawyer by the Admin. This website has been developed using PHP and MySQL. It offers three dashboards based on the user role. An Admin is able to assign users’ cases to a Lawyer. They are also allowed to view and edit all cases within the website. A Lawyer is only allowed to view cases that were assigned to themselves and add notes based on their progress. A User is allowed to add a new case and check the progress of their previous cases. Furthermore, a calendar has been implemented within the Admin and Lawyers’ dashboards to log down their appointments and MsTeams meeting links."
+      ],
+      "stack": ["PHP", "MySQL", "PhpMyAdmin", "JavaScript"],
+      "logowidth": 70,
+      "colourPrimary": "linear-gradient(to bottom, #39b1ab, #0b9fe7)",
+      "colourSecondary": "linear-gradient(to bottom, #39b1ab, #0b9fe7)"
+    },
+    {
+      "id": 4,
+      "link": "https://www.lsbu.ac.uk/",
+      "company": "LSBU",
+      "title": "LSBU",
+      "dateFrom": "2020",
+      "dateTo": "- Current",
+      "info": [
+        "I have been maintaining LSBU’s website for two years by constantly implementing new pages and content provided by different departments of the university. This website uses Squiz CMS to manage its content.  I use HTML, CSS and JavaScript on a daily basis to edit and develop web pages. My role also involves dealing with SEO in order to improve the university’s web traffic. Furthermore, I have been using SiteImprove to analyse the website’s content performance and improve it accordingly."
+      ],
+      "stack": ["Squiz CMS", "HTML", "CSS", "JavaScript", "SiteImprove", "SEO"],
+      "logowidth": 60,
+      "colourPrimary": "linear-gradient(to bottom, #b19339, #e7870b)",
+      "colourSecondary": "linear-gradient(to bottom, #b19339, #e7870b)"
+    },
+    {
+      "id": 5,
+      "link": "https://spectacular-phoenix-46c454.netlify.app/",
+      "company": "SkillCupid",
+      "title": "SkillCupid",
+      "dateFrom": "Final Year Project",
+      "dateTo": "- 2022",
+      "info": [
+        "SkillCupid is an innovative skill-matching web app which matches Job Seekers with Job Ads based on the keywords. The keywords are given by the Employer and are used to calculate the matching score for each user in order to hire the best candidate. Once a match is made, matching Job Seekers and Employers are able to chat within the chat."
+      ],
+      "stack": ["ReactJS", "Firebase", "Node.js", "Netlify"],
+      "logowidth": 70,
+      "colourPrimary": "linear-gradient(to bottom, #3957b1, #0bbee7)",
+      "colourSecondary": "linear-gradient(to bottom, #3957b1, #0bbee7)"
+    }
+  ]
+}

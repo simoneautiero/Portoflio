@@ -1,0 +1,40 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "Node.js",
+      "amount": "95"
+    },
+    {
+      "id": 1,
+      "skillName": "ReactJS",
+      "amount": "90"
+    },
+    {
+      "id": 2,
+      "skillName": "HTML",
+      "amount": "90"
+    },
+    { "id": 3, "skillName": "CSS", "amount": "85" },
+    {
+      "id": 4,
+      "skillName": "WordPress",
+      "amount": "80"
+    },
+    {
+      "id": 5,
+      "skillName": "Shopify",
+      "amount": "75"
+    },
+    { "id": 6, "skillName": "Python", "amount": "70" },
+    { "id": 7, "skillName": "PHP", "amount": "75" },
+    {
+      "id": 8,
+      "skillName": "Firebase",
+      "amount": "75"
+    },
+    { "id": 9, "skillName": "MySQL", "amount": "75" },
+    { "id": 7, "skillName": "SEO", "amount": "70" },
+    { "id": 7, "skillName": "Squiz CMS", "amount": "80" }
+  ]
+}
