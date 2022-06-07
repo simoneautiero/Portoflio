@@ -37,3 +37,4 @@ A simple one-page react portfolio made based off the original project by [Julian
 - Convert site to a gatsby static site for faster load times & security
 
 
+# Portoflio
