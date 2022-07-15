@@ -89,7 +89,7 @@
       "dateFrom": "Final Year Project",
       "dateTo": "- 2022",
       "info": [
-        "SkillCupid is an innovative skill-matching web app which matches Job Seekers with Job Ads based on the keywords. The keywords are given by the Employer and are used to calculate the matching score for each user in order to hire the best candidate. Once a match is made, matching Job Seekers and Employers are able to chat within the chat."
+        "SkillCupid is an innovative skill-matching web app which matches Job Seekers with Job Ads based on the keywords. The keywords are given by the Employer and are used to calculate the matching score for each user in order to hire the best candidate. Once a match is made, matching Job Seekers and Employers are able to chat within the app."
       ],
       "stack": ["ReactJS", "Firebase", "Node.js", "Netlify"],
       "logowidth": 70,
