@@ -95,6 +95,21 @@
       "logowidth": 70,
       "colourPrimary": "linear-gradient(to bottom, #3957b1, #0bbee7)",
       "colourSecondary": "linear-gradient(to bottom, #3957b1, #0bbee7)"
+    },
+    {
+      "id": 6,
+      "link": "https://beauhurst.com/",
+      "company": "Beauhurst",
+      "title": "Beauhurst",
+      "dateFrom": "2022",
+      "dateTo": "",
+      "info": [
+        "TrainFitness is an educational organisation based on the fitness culture. They deliver high-quality courses to train future personal trainers. My role consisted of creating a landing page for the business to showcase its services and courses to the clientele. WordPress has been used to develop their website and a blog operated by the instructors. In this role, I have also applied my SEO skills to improve the website's ranking."
+      ],
+      "stack": ["WordPress", "PHP", "SEO", "JavaScript"],
+      "logowidth": 70,
+      "colourPrimary": "linear-gradient(to bottom, #3979b1, #ccb87b)",
+      "colourSecondary": "linear-gradient(to bottom, #3979b1, #ccb87b)"
     }
   ]
 }
